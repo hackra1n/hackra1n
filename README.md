@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @hackra1n
 - 👀 I’m interested in Pentesting
-- 🌱 I’m currently learning C/C++
-- 💞️ I’m looking to collaborate on 
+- 🌱 I’m currently learning C/C+
 - 📫 You can find me on telegram @hackra1n
 <!---
 hackra1n/hackra1n is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
